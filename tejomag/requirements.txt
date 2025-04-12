@@ -81,16 +81,4 @@ pandas==2.1.2
 pathlib==1.0.1
 pillow==11.0.0
 pipenv==2023.4.29
-platformdirs==3.5.0
-prompt-toolkit==3.0.43
-protobuf==6.30.2
-pyasn1==0.6.1
-pyasn1_modules==0.4.1
-PyAutoGUI==0.9.54
-pycparser==2.21
-PyGetWindow==0.0.9
-PyJWT==2.6.0
-pymongo==4.10.1
-PyMsgBox==1.0.9
-pynput==1.7.6
 python-dotenv==1.0.1
