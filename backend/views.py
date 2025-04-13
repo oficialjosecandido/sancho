@@ -1,9 +1,10 @@
 from django.http import JsonResponse
 import requests
 from bs4 import BeautifulSoup
+from django.http import HttpResponse
 
 def teste(request):
-    pass
+    return HttpResponse("This is a test response.")
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
 
